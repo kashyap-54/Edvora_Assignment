@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: #383838;
+  height: 100vh;
+}
+
+.content {
+  background-color: #383838;
+  padding: 2vmax;
+}
+
+a {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.25rem;
+  margin-right: 2vmax;
+  text-decoration: none;
+  color: white;
+}
